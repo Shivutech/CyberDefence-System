@@ -84,11 +84,11 @@ CyberDefence-System
 
 ## Dashboard Home
 
-![Dashboard Home](images/screenshot(32).png)
+![Dashboard Home](images/dashboard1.png)
 
 ## Live Packet Monitoring
 
-![Live Packet Monitoring](images/screenshot(33).png)
+![Live Packet Monitoring](images/dashboard2.png)
 
 ## Traffic Analysis
 
